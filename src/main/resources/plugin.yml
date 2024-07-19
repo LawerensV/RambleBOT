@@ -1,0 +1,4 @@
+name: RambleBOT
+version: '${version}'
+main: net.ramblemc.bot.RambleBOT
+api-version: '1.20'
